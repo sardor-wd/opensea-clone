@@ -1,0 +1,467 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 1240px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    max-width: 1920px;
+    height: 72px;
+
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    -webkit-box-shadow: 4px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 1px rgba(34, 60, 80, 0.2);
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+}
+.search-inp{
+    width: 768px;
+    height: 48px;
+    cursor: text;
+    border-radius: 10px;
+    border: 1px solid #E5E8EB;
+    padding: 12px 17px;
+    font-size: 16px;
+    color: #E5E8EB;
+}
+.links{
+    display: flex;
+    gap: 10px;
+}
+.links a{
+    text-decoration: none;
+    color: #434D56;
+    font-size: 17px;
+}
+.client-section{
+    display: flex;
+    gap: 10px;
+}
+/* header end */
+
+/* screen one styles */
+.screen-one{
+    display: flex;
+    margin-top: 50px;
+}
+.screen_left{
+    max-width: 40%;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 40%;
+    justify-content: center;
+}
+.screen_left_content{
+    width: 100%;
+    border: 1px solid #E5E8EB;
+    display: flex;
+    flex-direction: column; 
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.nft-image-description{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+
+}
+.nft_image_description_top{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #E5E8EB;
+    padding: 20px;
+    font-size: 16px;
+    color: #434D56;
+
+}
+.nft_image_description_bottom{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 508px;
+    height: 294px;
+    padding: 30px;
+    overflow-x: scroll;
+}
+.nft_dropdown{
+    width: 100%;
+    align-items: center;
+}
+.nft-dropdown-box{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.dropdown_door {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.active_icon {
+    transform: rotate(180deg);
+}
+
+.nft-dropdown-list {
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.nft-dropdown-item {
+    padding: 0 10px;
+    
+}
+.btn-blue{
+    width: 150px;
+    height: 87px;
+    border-radius: 10px;
+    color: #434D56;
+    background-color: #E5E8EB;
+    border: 1px solid rgb(21, 178, 229);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.about_user{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.nft-user-about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+.username_box{
+    width: 100%;
+}
+.nft-user-description{
+    width: 100%;
+    height: 200px;
+    overflow-y: scroll;
+}
+.social_media{
+    border: 1px solid #E5E8EB;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.social_media_link{
+    height: 100%;
+    padding: 8px 16px;
+    color: #E5E8EB;
+    font-weight: 600;
+    border-right: 1px solid #E5E8EB;
+}
+.social_media_link:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.details{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.details p{
+    width: 100%;
+    padding: 4px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details p span {
+    color: #434D56;
+}
+.is-active {
+    display: flex;
+}
+/*Screen Right*/
+.screen_right{
+    max-width: 60%;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 60%;
+    justify-content: center;
+}
+.nft-image{
+    width: 508px;
+    height: 508px;
+    display: flex;
+    align-items: center;
+}
+.nft-image img{
+    border-radius: 15px;
+}
+.nft-description{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 20px;
+}
+.stat{
+    display: flex;
+    gap: 15px;
+}
+.sc1-two{
+    display: flex;
+    flex-direction: column;
+}
+.nft-buy{
+    display: flex;
+    flex-direction: column;
+    width: 708px;
+    height: 245px;
+    margin-left: 20px;
+    margin-top: 50px;
+    background-color: #FBFDFF;
+}
+.sale-p{
+    width: 708px;
+    height: 65px;
+    border: 1px solid grey;
+    border-radius: 15px 15px 0 0;
+    padding: 20px;
+    font-size: 17px;
+}
+.buy-buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    width: 708px;
+    height: 175px;
+    border: 1px solid grey;
+    border-radius: 0 0 15px 15px;
+    padding: 20px;
+}
+.eth-price{
+    display: flex;
+}
+.btns{
+    display: flex;
+    gap: 10px;
+}
+.blue-btn{
+    width: 206px;
+    height: 60px;
+    background-color: #2081e2;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    border-radius: 15px;
+}
+.offer-btn{
+    width: 206px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/*right side*/
+.price_history{
+    width: 708px;
+    border-radius: 10px;
+    border: 1px solid #E5E8EB;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+/**/
+.screen-second{
+    border: 1px solid #E5E8EB;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.price_history_item{
+    width: 100%;
+    height: 100%;
+}
+.price_history_item_select{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+}
+.price_history_item_select select{
+    width: 50%;
+    height: 50px;
+    border: 1px solid #E5E8EB;
+    border-radius: 10px;
+    padding: 8px;
+
+}
+.price_history_item_select .price_history_text{
+    width: 50%;
+    height: 100%;
+    padding-left: 10px;
+}
+.price_history_item_graph{
+    width: 100%;
+    height: 100%;
+    padding: 10px 0;
+}
+.listing_header{
+    display: flex;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border-top: 1px solid #E5E8EB;
+    border-bottom: 1px solid #E5E8EB;
+    padding: 0 10px;
+}
+.p-0{
+    padding: 0;
+}
+.listing_header span {
+    width: 147px;
+}
+.listing_item{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 10px;
+}
+.listing_btn{
+    width: 100%;
+    height: 81px;
+    display: flex;
+    align-items: center;
+}
+.listing_btn p {
+    width: 147px;
+    font-size: 14px;
+}
+.btn_listing{
+    padding: 11px 24px;
+    border: 1px solid #E5E8EB;
+    background-color: #E5E8EB;
+    color: #2081e2;
+    border-radius: 10px;
+}
+/* Popup section */
+body{
+    position: relative;
+}
+.popup-fade{
+    display: none;
+    position: fixed;
+    inset: 0px;
+    z-index: 2000;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out 0s;
+    background-color: rgba(0, 0, 0, 0.8);
+
+}
+.offer-popup{
+    display: none;
+    flex-direction: column;
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 108px;
+    left: 27%;
+    background-color: white;
+    padding-top: 20px;
+    z-index: 3000;
+    border-radius: 18px;
+    -webkit-box-shadow: 4px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 1px rgba(34, 60, 80, 0.2);
+}
+.terms{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+}
+.amount{
+    display: flex;
+    gap: 10px;
+}
+.sc-amount{
+    width: 180px;
+    height: 48px;
+    border-radius: 12px;
+    border: 2px solid rgb(229, 232, 235);
+    padding-left: 10px;
+    font-size: 16px;
+}
+.amount-bar{
+    width: 850px;
+    height: 48px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 12px;
+    border: 2px solid rgb(229, 232, 235);
+}
+.expiration{
+    display: flex;
+    gap: 10px;
+}
+.sc-expiration{
+    width: 108px;
+    height: 48px;
+    border-radius: 12px;
+    border: 2px solid rgb(229, 232, 235);
+    padding-left: 10px;
+    font-size: 16px;
+}
+.date{
+    width: 540px;
+    height: 48px;
+    font-size: 16px;
+    padding-left: 10px;
+    border-radius: 12px;
+    border: 2px solid rgb(229, 232, 235);
+}

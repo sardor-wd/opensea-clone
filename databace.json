@@ -1,0 +1,453 @@
+{
+    "colectibles": [
+        {
+            "id": 1,
+            "mainImg": "https://i.seadn.io/gcs/files/944789b296b8e91bfce2b2f7123edfe9.png?auto=format&dpr=1.25&w=500",
+            "img": "https://i.seadn.io/gcs/files/f2f5fa430c611a7c8afe340dc959cb1a.png?auto=format&dpr=1.25&w=70",
+            "name": "Ember Sworld Land"
+        },
+        
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/1-9f5FbGJf2IC6gGaXGQTumn0ldIwZYo7tXzEaZJPlz_anJt2RYXZVtJIUg0tWHMeVRIOyzfRkdTU6xLj8KyW6_HCOxTvSoc0t2UYg=h400",
+            "img": "https://lh3.googleusercontent.com/g-NFUWjS4IGgym8PHBxyhg5-G_B4x-IHgPKRkxo00JQFE3LOd-95yU2uhrokITVmV7KHEav6OMfAhfJ4roC5hwP-0tI9dMRd9wQLdw=s128",
+            "name": "Loot (for Adventurers)"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/o5Tt1FbaINxqvS47-r3weuCEaTKGbc5yZJS0yXtDyBDwVeyYVWr7angBivb3iGXKc_1Q-a-DBwxu_VMynRnPbJHVnkt4u1pbBTDz=h400",
+            "img": "https://lh3.googleusercontent.com/o5Tt1FbaINxqvS47-r3weuCEaTKGbc5yZJS0yXtDyBDwVeyYVWr7angBivb3iGXKc_1Q-a-DBwxu_VMynRnPbJHVnkt4u1pbBTDz=s128",
+            "name": "Meridian by Matt DesLauriers"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/rX-eCIZ-fXEMlzJn0829TDK2yXEUMM5_k1Ej832RBcAddVdcbeSwqFpekEagMXzyS6FNmdWgrkB6SBccjHsv_xX56HZIXXPCKZDs=h400",
+            "img": "https://lh3.googleusercontent.com/ghfJZByjWPd3uLNObWtTFh5I1CReiQARoRjj0rzLnYA-HUAAjFFXQ580tnib1bub_PuHhx3O6asNQCZ4lzEPeedr-zrTWTqb1ysyZg=s128",
+            "name": "Tom Sachs: Rocket Factory"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/R70cyOPBWZrzmUZb3rw512hC2M9ECdEgwGyR-VMt0CuzOZiyfadlqj2UfFIHTir_oXvd9G258Rg8AN5atajgEnAJJlxmCJgaGkm9mw=h400",
+            "img": "https://lh3.googleusercontent.com/HTyypf6ylK_ns_U5_cY-AqJz5Fr4rJlSNDQsROKJnShKr7pR7MDRC1utJziKaxuscGCx0kKmK2PiqHorxeSMVB-STMpnzYKl-5W_=s128",
+            "name": "Official BIG3 Ownership"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://i.seadn.io/gcs/files/11c0899e14baa0a450bee302359719b6.png?auto=format&dpr=1.25&w=500",
+            "img": "https://i.seadn.io/gcs/files/f2cdb70fab43eff0b04127e9ce108537.png?auto=format&dpr=1.25&w=70",
+            "name": "Castaways - The Raft"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/AfA9kai-24KvwUXUp_f42AkZc6XzcGvIt1aqjWzIavLXlwoEP6D6K4-7rTlXRLlke9WnfLVYGCfojVAiiG8MxZOtWgYX_GxUETQzeg=h400",
+            "img": "https://i.seadn.io/gcs/files/fac25e2e9e359ab2cc126875c2669be9.jpg?auto=format&dpr=1.25&w=70",
+            "name": "Private Jet Pyjama Party First Ladies"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/DeSf4hHZyH6j9-1aSuf14sWCMuNcQUSJnOXqhM9bIrL6rU6lSq-v25wKkA6f9GNtbmL7QOMxi_F6PP-tr9blmBFo9U0YvJRyQgibAg=h400",
+            "img": "https://i.seadn.io/gcs/files/fac25e2e9e359ab2cc126875c2669be9.jpg?auto=format&dpr=1.25&w=70",
+            "name": "Private Jet Pyjama Party"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/vrAivQCYDeVHfHX2hE2xjBwLBr8b6HCMwQkmztsIE5mJqCMzkk2UZeFD5cMs9nJlrZA29dglPpNFzA1cGlQpcAnK_Bp9gUptTBXr=h400",
+            "img": "https://lh3.googleusercontent.com/sEovXxj2cTGHypkeRAH9FItDo1S2See_8WSc5UR7JBM5eZe3ccKBAPYHEv5e5ELFqwJOuy8in8cQ1uxSYrwlMNoPLehBNvHeHnGGh98=s128",
+            "name": "gmDAO token"
+        },
+        {
+            "id": 1,
+            "mainImg": "https://lh3.googleusercontent.com/Zlsp6tLyYInxEkJdjtgF5YgberpwtjrN6snYYxlNsXJubS5m_-rkHHNF2MlZTLnDu11ikGqIzxzzkRnwJW0NFyzlYnqGbDI5t1z7=h400",
+            "img": "https://lh3.googleusercontent.com/wuAlC6zQrUHij2fgvsEhS96Oq2L4oKj0P3a0siAlVkFD4i1_S-RxI9W3qJ0jATFswWuzSmsRTMVrdaiYTCaLIn0Lfcbetj5cIou22eg=s128",
+            "name": "Proof of CNCPTS"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "img": "https://lh3.googleusercontent.com/OYvE-daPlxRCqry6lJY2SaXKodbD1-2jTucE7l2iEb50no017kXDuu9uYVt44To6930sL3xtSrm3XpSedtpXbcIydIv-xK0WLIxx=s100-k",
+            "nic_name": "Degods",
+            "floor_price": "777",
+            "pourcent": "+218,09%",
+            "amount": "35 840,16"
+        },
+        {
+            "id": 2,
+            "img":"https://i.seadn.io/gcs/files/fe93ea8b5aed4dfcebd9feadc13a8574.png?auto=format&dpr=1&w=50",
+            "nic_name": "DigiDaigaku Genesis",
+            "floor_price": "7.59",
+            "pourcent": "+318,23%",
+            "amount": "460,22"
+        },
+        {
+            "id": 3,
+            "img": "https://lh3.googleusercontent.com/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI=s100-k",
+            "nic_name": "Otherdeed for Otherside",
+            "floor_price": "1.78",
+            "pourcent": "+59.97%",
+            "amount": "412,65"
+        },
+        {
+            "id": 4,
+            "img": "https://openseauserdata.com/files/c6607f30698fec56931320239d63b690.gif",
+            "nic_name": "RENGA Black Box",
+            "floor_price": "0.54",
+            "pourcent": "+137.08%",
+            "amount": "404.68"
+        },
+        {
+            "id": 5,
+            "img": "https://openseauserdata.com/files/c3a312c53514642e8041c65e10b40a52.gif",
+            "nic_name": "Women Ape Yacgt Club",
+            "floor_price": "0.08",
+            "pourcent": "+85,16%",
+            "amount": "360.5"
+        },
+        {
+            "id": 6,
+            "img": "https://openseauserdata.com/files/165b6b14134c47b4ddf1c026170b2294.gif",
+            "nic_name": "Commoners by Commonopoly",
+            "floor_price": "0.06",
+            "pourcent":" ",
+            "amount": "307.04"
+        },   {
+            "id": 7,
+            "img": "https://lh3.googleusercontent.com/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ=s100-k",
+            "nic_name": "ENS: Ethereeum Name Service",
+            "floor_price": "0.01",
+            "pourcent": "-27,13%",
+            "amount": "273,28"
+        },
+        {
+            "id": 8,
+            "img": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s100-k",
+            "nic_name": "Art Blocks Curated",
+            "floor_price": "-",
+            "pourcent": "-29,67%",
+            "amount": "255,94"
+        },
+        {
+            "id": 9,
+            "img": "https://i.seadn.io/gcs/files/0b30e4825afa73d25f056638aeccec7a.jpg?auto=format&dpr=1&w=50",
+            "nic_name": "OutSad Official",
+            "floor_price": "0.43",
+            "pourcent": "+20.6K%",
+            "amount": "230.,13"
+        },   {
+            "id": 10,
+            "img": "https://i.seadn.io/gcs/files/ee5a260b2d1963df7faa7c4ae170f088.jpg?auto=format&dpr=1&w=50",
+            "nic_name": "Naruto Art Club",
+            "floor_price": "0.25",
+            "pourcent": "  ",
+            "amount": "223.6"
+        },   {
+            "id": 11,
+            "img": "https://lh3.googleusercontent.com/0qG8Y78s198F2GZHhURw8_TEfxFlpS2XYnuLV_OW6TJin5AV1G2WOSpcLGnEmv5g2gZ6R6Pxjd4v1DP2p0bxptckM6ZJ3cMIvQmrgDM=s100-k",
+            "nic_name": "Chromie Squiggle by Snowfro",
+            "floor_price": "10.6",
+            "pourcent": "+38.76%",
+            "amount": "218.68"
+        },   {
+            "id": 12,
+            "img": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s100-k",
+            "nic_name": "Mutant Ape YAcht Club",
+            "floor_price": "14.79",
+            "pourcent": "+3,38%",
+            "amount": "206.84"
+        },   {
+            "id": 13,
+            "img": "https://i.seadn.io/gcs/files/0f8b3e2df37972fece7b2d8fe692f229.png?auto=format&dpr=1&w=50",
+            "nic_name": "CRyptoSimeji Official",
+            "floor_price": "0.07",
+            "pourcent": "  ",
+            "amount": "205.24"
+        },   {
+            "id": 14,
+            "img": "https://i.seadn.io/gcs/files/0202b8df513a9ea13b8ac7b51f818c2d.png?auto=format&dpr=1&w=50",
+            "nic_name": "shrempin",
+            "floor_price": "3.69",
+            "pourcent": "+44.19%",
+            "amount": "9 147.72"
+        }, 
+        {
+            "id": 15,
+            "img": "https://lh3.googleusercontent.com/H8jOCJuQokNqGBpkBN5wk1oZwO7LM8bNnrHCaekV2nKjnCqw6UB5oaH8XyNeBDj6bA_n1mjejzhFQUP3O1NfjFLHr3FOaeHcTOOT=s100-k",
+            "nic_name": "Azuki",
+            "floor_price": "8.3",
+            "pourcent": "+62.59%",
+            "amount": "167.3"
+        }
+    ],
+    "arr": [
+        {
+            "img": "https://lh3.googleusercontent.com/PXRwgglXMrwK1rz9ybURIeEyl7yfQ8mP6jtETqGn_RAGh6rHU-W9mRTZHzXhZtO5RAvrY3QCBJragevTd03XuJznzl7WHyXZTe8et5A=w600",
+            "name": "Afterburn",
+            "companyName": "XCOPY",
+            "prices": {
+                "currentPrice": "4,68",
+                "price": "$7 317,46"
+            },
+            "allTime": "5,84",
+            "listings": {
+                "currentPrice": "4,68",
+                "price": "$7 317,46",
+                "expiration": "1 day",
+                "from": "m-meiejiti"
+            },
+            "offers": [
+                {
+                    "currentPrice": "2,8",
+                    "price": "$4 377,97",
+                    "difference": "40% below",
+                    "expiration": "3 days",
+                    "from": "jp255555"
+                },
+                {
+                    "currentPrice": "2,7",
+                    "price": "$4 215,11",
+                    "difference": "42% below",
+                    "expiration": "3 days",
+                    "from": "GIUFR3"
+                },
+                {
+                    "currentPrice": "2,35",
+                    "price": "$3 668,70",
+                    "difference": "50% below",
+                    "expiration": "3 days",
+                    "from": "1F0F85"
+                },
+                {
+                    "currentPrice": "2,04",
+                    "price": "$3 184,75",
+                    "difference": "56% below",
+                    "expiration": "about 3 hours",
+                    "from": "not_obwilly"
+                },
+                {
+                    "currentPrice": "2",
+                    "price": "$3 122,30",
+                    "difference": "57% below",
+                    "expiration": "about 12 hours",
+                    "from": "jp255555"
+                },
+                {
+                    "currentPrice": "1.66",
+                    "price": "$2 591,59",
+                    "difference": "65% below",
+                    "expiration": "25 days",
+                    "from": "5F9130"
+                },
+                {
+                    "currentPrice": "1.66",
+                    "price": "$2 591,59",
+                    "difference": "65% below",
+                    "expiration": "25 days",
+                    "from": "5F9130"
+                },
+                {
+                    "currentPrice": "1.65",
+                    "price": "$2 575,90",
+                    "difference": "65% below",
+                    "expiration": "24 days",
+                    "from": "LLHH"
+                }
+            ],
+            "description": {
+                "about": "https://lh3.googleusercontent.com/6u03VU9Xbl5_RWNbxO98ukh9TwUqF3Xfbbl0AljjVi28paJuDWAtmtZEEYVyvzsIjRwa0f6A9BHrDXVxQBKfEmwGWrDv26dKZHjrAg=w128",
+                "detals": {
+                    "contactAdress": "0x8a93be57",
+                    "tokenId": "17600020436",
+                    "tokenStandart": "ERC-721",
+                    "blockchain": "Ethereum",
+                    "creatorEarnings": "10%"
+                }
+            },
+            "itemActivity": [
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "5858DD",
+                    "to": "m-meiejiti",
+                    "date": "18 days ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "m-meiejiti",
+                    "to": "5858DD",
+                    "date": "22 days ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "74FD05",
+                    "to": "m-meiejiti",
+                    "date": "25 days ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "B041A",
+                    "to": "74FD05",
+                    "date": "10 months ago"
+                },
+                {
+                    "event": "Sale",
+                    "price": "5,84",
+                    "from": "B041A",
+                    "to": "74FD05",
+                    "date": "10 months ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "nifty-gate",
+                    "to": "B041A",
+                    "date": "a year ago"
+                },
+                {
+                    "event": "Airdrop",
+                    "price": false,
+                    "from": "NullAdress",
+                    "to": "nifty-gate",
+                    "date": "a year ago"
+                }
+            ]
+        },
+        {
+            "img": "https://lh3.googleusercontent.com/PXRwgglXMrwK1rz9ybURIeEyl7yfQ8mP6jtETqGn_RAGh6rHU-W9mRTZHzXhZtO5RAvrY3QCBJragevTd03XuJznzl7WHyXZTe8et5A=w600",
+            "name": "Afterburn",
+            "companyName": "XCOPY",
+            "prices": {
+                "currentPrice": "4,68",
+                "price": "$7 317,46"
+            },
+            "allTime": "5,84",
+            "listings": {
+                "currentPrice": "4,68",
+                "price": "$7 317,46",
+                "expiration": "1 day",
+                "from": "m-meiejiti"
+            },
+            "offers": [
+                {
+                    "currentPrice": "2,8",
+                    "price": "$4 377,97",
+                    "difference": "40% below",
+                    "expiration": "3 days",
+                    "from": "jp255555"
+                },
+                {
+                    "currentPrice": "2,7",
+                    "price": "$4 215,11",
+                    "difference": "42% below",
+                    "expiration": "3 days",
+                    "from": "GIUFR3"
+                },
+                {
+                    "currentPrice": "2,35",
+                    "price": "$3 668,70",
+                    "difference": "50% below",
+                    "expiration": "3 days",
+                    "from": "1F0F85"
+                },
+                {
+                    "currentPrice": "2,04",
+                    "price": "$3 184,75",
+                    "difference": "56% below",
+                    "expiration": "about 3 hours",
+                    "from": "not_obwilly"
+                },
+                {
+                    "currentPrice": "2",
+                    "price": "$3 122,30",
+                    "difference": "57% below",
+                    "expiration": "about 12 hours",
+                    "from": "jp255555"
+                },
+                {
+                    "currentPrice": "1.66",
+                    "price": "$2 591,59",
+                    "difference": "65% below",
+                    "expiration": "25 days",
+                    "from": "5F9130"
+                },
+                {
+                    "currentPrice": "1.66",
+                    "price": "$2 591,59",
+                    "difference": "65% below",
+                    "expiration": "25 days",
+                    "from": "5F9130"
+                },
+                {
+                    "currentPrice": "1.65",
+                    "price": "$2 575,90",
+                    "difference": "65% below",
+                    "expiration": "24 days",
+                    "from": "LLHH"
+                }
+            ],
+            "description": {
+                "about": "https://lh3.googleusercontent.com/6u03VU9Xbl5_RWNbxO98ukh9TwUqF3Xfbbl0AljjVi28paJuDWAtmtZEEYVyvzsIjRwa0f6A9BHrDXVxQBKfEmwGWrDv26dKZHjrAg=w128",
+                "detals": {
+                    "contactAdress": "0x8a93be57",
+                    "tokenId": "17600020436",
+                    "tokenStandart": "ERC-721",
+                    "blockchain": "Ethereum",
+                    "creatorEarnings": "10%"
+                }
+            },
+            "itemActivity": [
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "5858DD",
+                    "to": "m-meiejiti",
+                    "date": "18 days ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "m-meiejiti",
+                    "to": "5858DD",
+                    "date": "22 days ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "74FD05",
+                    "to": "m-meiejiti",
+                    "date": "25 days ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "B041A",
+                    "to": "74FD05",
+                    "date": "10 months ago"
+                },
+                {
+                    "event": "Sale",
+                    "price": "5,84",
+                    "from": "B041A",
+                    "to": "74FD05",
+                    "date": "10 months ago"
+                },
+                {
+                    "event": "Transfer",
+                    "price": false,
+                    "from": "nifty-gate",
+                    "to": "B041A",
+                    "date": "a year ago"
+                },
+                {
+                    "event": "Airdrop",
+                    "price": false,
+                    "from": "NullAdress",
+                    "to": "nifty-gate",
+                    "date": "a year ago"
+                }
+            ]
+        }
+    ]
+}

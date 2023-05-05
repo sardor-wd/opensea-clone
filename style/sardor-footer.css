@@ -1,0 +1,220 @@
+<<<<<<< HEAD
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.video-screen{
+    width: 100%;
+    max-width: 1920px;
+    height: 1000px;
+    background-color: #F3FBFE;
+}
+.video-block{
+    background-image: url(../assets/img/video-background.svg);
+    background-position: 45% 50%;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.explore-btn{
+    width: 254px;
+    height: 60px;
+    background-color: #2081e2;
+    border: none;
+    border-radius: 15px;
+    padding: 17px 24px;
+    color: white;
+    font-size: 16px;
+    margin-top: 100px;
+}
+.companies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    width: 100%;
+    height: 100px;
+    background-color: #2081e2;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1920px;
+    height: 875px;
+    background-color: #1868B7;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 50px;
+    color: white;
+    position: relative;
+}
+.ft-one{
+    display: flex;
+    gap: 120px;
+}
+.inp{
+    width: 412px;
+    height: 48px;
+    margin-top: 15px;
+    border-radius: 15px;
+    padding: 1px 5px;
+    font-size: 16px;
+    border: none;
+}
+.sign-up{
+    width: 132px;
+    height: 50px;
+    background-color: #2081e2;
+    border-radius: 15px;
+    border: none;
+    color: white;
+}
+.links{
+    display: flex;
+    gap: 10px;
+}
+.link{
+    width: 54px;
+    height: 54px;
+    background-color: #2081e2;
+    padding: 17px 12px;
+    border-radius: 15px;
+}
+.ft-two{
+    position: absolute;
+    top: 300px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.all-links-box{
+    display: flex;
+    gap: 90px;
+    position: absolute;
+    left: 450px;
+    top: 0px;
+}
+.link-box{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.ft-three{
+    display: flex;
+    gap: 750px;
+    position: absolute;
+    top: 800px;
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.video-screen{
+    width: 100%;
+    max-width: 1920px;
+    height: 1000px;
+    background-color: #F3FBFE;
+}
+.video-block{
+    background-image: url(../assets/img/video-background.svg);
+    background-position: 45% 50%;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.explore-btn{
+    width: 254px;
+    height: 60px;
+    background-color: #2081e2;
+    border: none;
+    border-radius: 15px;
+    padding: 17px 24px;
+    color: white;
+    font-size: 16px;
+    margin-top: 100px;
+}
+.companies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    width: 100%;
+    height: 100px;
+    background-color: #2081e2;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1920px;
+    height: 875px;
+    background-color: #1868B7;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 50px;
+    color: white;
+    position: relative;
+}
+.ft-one{
+    display: flex;
+    gap: 120px;
+}
+.inp{
+    width: 412px;
+    height: 48px;
+    margin-top: 15px;
+    border-radius: 15px;
+    padding: 1px 5px;
+    font-size: 16px;
+    border: none;
+}
+.sign-up{
+    width: 132px;
+    height: 50px;
+    background-color: #2081e2;
+    border-radius: 15px;
+    border: none;
+    color: white;
+}
+.links{
+    display: flex;
+    gap: 10px;
+}
+.link{
+    width: 54px;
+    height: 54px;
+    background-color: #2081e2;
+    padding: 17px 12px;
+    border-radius: 15px;
+}
+.ft-two{
+    position: absolute;
+    top: 300px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.all-links-box{
+    display: flex;
+    gap: 90px;
+    position: absolute;
+    left: 450px;
+    top: 0px;
+}
+.link-box{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.ft-three{
+    display: flex;
+    gap: 750px;
+    position: absolute;
+    top: 800px;
+>>>>>>> f6beb1cd81590fb58759088ec42165b84b7f66ca
+}

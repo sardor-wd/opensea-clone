@@ -1,0 +1,32 @@
+{
+  "name": "opensea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -w databace.json -p 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Daler_ravshanov/opensea616.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Daler_ravshanov/opensea616/issues"
+  },
+  "homepage": "https://gitlab.com/Daler_ravshanov/opensea616#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "json-server": "^0.17.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.54.5"
+  }
+}

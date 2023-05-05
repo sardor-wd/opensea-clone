@@ -1,0 +1,259 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    width: 100%;
+    max-width: 1920px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+}
+.search-inp{
+    width: 768px;
+    height: 48px;
+    cursor: text;
+    border-radius: 10px;
+    border: 1px solid #E5E8EB;
+    padding: 12px 17px;
+    font-size: 16px;
+    color: #E5E8EB;
+}
+.links{
+    display: flex;
+    gap: 10px;
+}
+.links a{
+    text-decoration: none;
+    color: #434D56;
+    font-size: 17px;
+}
+.client-section{
+    display: flex;
+    gap: 10px;
+}
+.hero-wrapper{
+    width: 100%;
+    max-width: 1920px;
+    height: 648px;
+    background-image: url(../assets/img/unnamed.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+    filter: blur(8px);
+    -webkit-mask: linear-gradient(rgb(255, 255, 255), transparent);
+    position: relative;
+    opacity: 0.3;
+}
+.hero-left{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+.discover-h1{
+    font-size: 42px;
+    margin: 0 5px 0 0;
+    color: #04111d;
+}
+.opensea-p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #353840;
+}
+.left-btns{
+    margin-top: 20px;
+}
+.exp-btn{
+    width: 167px;
+    height: 60px;
+    background-color: #2081e2;
+    border: none;
+    border-radius: 16px;
+    color: white;
+    font-size: 15px;
+    padding: 17px 24px;
+}
+.create-btn{
+    width: 167px;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 16px;
+    color: #2081e2;
+    font-size: 15px;
+    padding: 17px 24px;
+}
+.learn-about p{
+    font-size: 17px;
+    color: #2081e2;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.hero-right{
+    position: absolute;
+    top: 100px;
+    right: 150px;
+}
+.right-wrapper{
+    display: flex;
+    gap: 0px;
+    flex-direction: column;
+    width: 100%;
+    height: 700px;
+}
+.nft-text{
+    width: 550px;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+.nft-text a{
+    text-decoration: none;
+    color: #2081e2;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    width: 100%;
+    max-width: 1920px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+}
+.search-inp{
+    width: 768px;
+    height: 48px;
+    cursor: text;
+    border-radius: 10px;
+    border: 1px solid #E5E8EB;
+    padding: 12px 17px;
+    font-size: 16px;
+    color: #E5E8EB;
+}
+.links{
+    display: flex;
+    gap: 10px;
+}
+.links a{
+    text-decoration: none;
+    color: #434D56;
+    font-size: 17px;
+}
+.client-section{
+    display: flex;
+    gap: 10px;
+}
+.hero-wrapper{
+    width: 100%;
+    max-width: 1920px;
+    height: 648px;
+    background-image: url(../assets/img/unnamed.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(255, 255, 255);
+    filter: blur(8px);
+    -webkit-mask: linear-gradient(rgb(255, 255, 255), transparent);
+    position: relative;
+    opacity: 0.3;
+}
+.hero-left{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+.discover-h1{
+    font-size: 42px;
+    margin: 0 5px 0 0;
+    color: #04111d;
+}
+.opensea-p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #353840;
+}
+.left-btns{
+    margin-top: 20px;
+}
+.exp-btn{
+    width: 167px;
+    height: 60px;
+    background-color: #2081e2;
+    border: none;
+    border-radius: 16px;
+    color: white;
+    font-size: 15px;
+    padding: 17px 24px;
+}
+.create-btn{
+    width: 167px;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 16px;
+    color: #2081e2;
+    font-size: 15px;
+    padding: 17px 24px;
+}
+.learn-about p{
+    font-size: 17px;
+    color: #2081e2;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.hero-right{
+    position: absolute;
+    top: 100px;
+    right: 150px;
+}
+.right-wrapper{
+    display: flex;
+    gap: 0px;
+    flex-direction: column;
+    width: 100%;
+    height: 700px;
+}
+.nft-text{
+    width: 550px;
+    height: 60px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+.nft-text a{
+    text-decoration: none;
+    color: #2081e2;
+}

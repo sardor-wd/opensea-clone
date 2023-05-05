@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.shoxrux {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.shoxrux select {
+    border: none;
+    color: blue;
+    font-size: 24px;
+}
+
+.shoxrux select:hover {
+    color: rgb(0, 0, 209);
+}
+
+.shoxrux .categories {
+    display: flex;
+}
+
+.shoxrux .first {
+    font-size: 24px;
+}
+
+.shoxrux .facts {
+    display: block;
+    margin-top: 80px;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(251, 253, 255);
+}
+
+.shoxrux .fact__text span {
+    font-size: 24px;
+}
+
+.shoxrux .facts__all {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 70px;
+}
+
+.shoxrux .fact__item {
+    display: block;
+    align-self: flex-start;
+    align-content: flex-end;
+    width: 260px;
+    height: 248px;
+}
+
+.shoxrux .second {
+    display: block;
+    gap: 20px;
+    margin-top: 80px;
+}
+
+.shoxrux .items {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+}
+
+.shoxrux .second__item {
+    width: 414px;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.shoxrux .second__item:hover {
+    -webkit-box-shadow: 0px 0px 8px 1px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 8px 1px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 8px 1px rgba(34, 60, 80, 0.2);
+}
+
+.shoxrux .second__item img {
+    width: 413px;
+    height: 264px;
+    border-radius: 15px 15px 0 0;
+}
+
+.shoxrux .white {
+    margin-top: 20px;
+    margin-left: -100px;
+}
+
+
+.shoxrux .browse {
+    display: block;
+    margin-top: 100px;
+
+}
+
+.shoxrux .ittems {
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    width: 1300px;
+}
+
+.shoxrux .browse__item {
+    width: 338px;
+    height: 220px;
+    border-radius: 10px;
+    border: 1px solid rgb(181, 181, 181);
+}
+
+.shoxrux .browse__item:hover {
+    -webkit-box-shadow: 0px 0px 8px 1px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 8px 1px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 8px 1px rgba(34, 60, 80, 0.2);
+}
+
+.shoxrux .ittems img {
+    width: 338px;
+    height: 183px;
+    border-radius: 10px 10px 0 0;
+}
+
+.shoxrux .carousel {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.shoxrux .carousel__img {
+    width: 414px;
+    height: 323px;
+
+}
+
+
+
+@media screen and (min-width: 911px) {
+    .ant-carousel {
+        max-width: 1290px;
+    }
+}
+
+@media screen and (min-width: 641px) and (max-width: 910px) {
+    .ant-carousel {
+        max-width: 540px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .ant-carousel {
+        max-width: 270px;
+    }
+}
+
+.ant-carousel {
+    margin: 50px auto auto;
+    padding-top: 10px;
+    background-color: white;
+}
+
+.ant-carousel-element {
+    width: 414px;
+    height: 323px;
+    text-align: center;
+    display: block;
+}
+
+/* General styles */
+.ant-carousel {
+    width: auto;
+    position: relative;
+}
+
+.ant-carousel-hider {
+    overflow: hidden;
+}
+
+.ant-carousel-list,
+.colect {
+    width: auto;
+    height: 350px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.colect {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.ant-carousel-element {
+    width: 414px;
+    height: 300px;
+    display: block;
+    flex: 0 0 auto;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 2px 8px 5px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 2px 8px 5px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 2px 8px 5px rgba(34, 60, 80, 0.2);
+}
+
+.ant-carousel-element:hover {
+    -webkit-box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Navigation item styles */
+div.ant-carousel-arrow-left,
+div.ant-carousel-arrow-right {
+    width: 22px;
+    height: 40px;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0.6;
+    z-index: 32;
+}
+
+div.ant-carousel-arrow-left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    left: -30px;
+    top: 40%;
+    background-color: white;
+    display: block;
+    -webkit-box-shadow: -1px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    opacity: 1.0;
+    position: absolute;
+    z-index: 345345;
+}
+
+div.ant-carousel-arrow-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    -webkit-box-shadow: -1px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 4px 8px 1px rgba(34, 60, 80, 0.2);
+    right: -30px;
+    background-color: white;
+    top: 40%;
+    display: block;
+    opacity: 1.0;
+    position: absolute;
+    z-index: 234234234;
+}
+
+div.ant-carousel-arrow-left:hover {
+    -webkit-box-shadow: -1px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: -1px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: -1px 4px 8px 4px rgba(0, 0, 0, 0.2);
+}
+
+div.ant-carousel-arrow-right:hover {
+    -webkit-box-shadow: -1px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: -1px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: -1px 4px 8px 4px rgba(0, 0, 0, 0.2);
+}
+
+div.ant-carousel-dots {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    bottom: -30px;
+    z-index: 30;
+    text-align: center;
+}
+
+span.ant-dot {
+    width: 7px;
+    height: 7px;
+    margin: 5px 7px;
+    padding: 0;
+    display: inline-block;
+    background-color: rgb(110, 183, 255) !important;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+span.ant-dot:hover{
+    background-color: rgb(33, 143, 253) !important;
+}
+
+.another {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 78px;
+    height: 78px;
+    background-color: white;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 28px -8px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 28px -8px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 28px -8px rgba(34, 60, 80, 0.2);
+}
+
+.shoxrux .another img {
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+}
+
+.shoxrux .img__main img {
+    border-radius: 10px 10px 0 0;
+}
+
+.colect {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
